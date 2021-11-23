@@ -1,7 +1,7 @@
 ### Hi there 👋 thanks for visiting my GitHub!!!
 
-![](https://visitor-badge.glitch.me/badge?page_id=ayushmantripathy9.ayushmantripathy9)
-[![GitHub followers](https://img.shields.io/github/followers/ayushmantripathy9.svg?style=social&label=Follow)](https://github.com/ayushmantripathy9?tab=followers)
+![](https://visitor-badge.glitch.me/badge?page_id=ARYANJAIN2001.ARYANJAIN2001)
+[![GitHub followers](https://img.shields.io/github/followers/ARYANJAIN2001.svg?style=social&label=Follow)](https://github.com/ARYANJAIN2001?tab=followers)
 
 
 <a href="www.linkedin.com/in/ARYANJAIN2001/">
