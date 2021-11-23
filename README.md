@@ -4,33 +4,22 @@
 [![GitHub followers](https://img.shields.io/github/followers/ayushmantripathy9.svg?style=social&label=Follow)](https://github.com/ayushmantripathy9?tab=followers)
 
 
-<a href="https://www.linkedin.com/in/ayushman-tripathy-4429aa192/">
-    <img align="left" alt="Ayushman's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.codechef.com/users/alexis_icy">
-    <img align="left" alt="Ayushman's CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-<a href="https://codeforces.com/profile/alexis_icy">
-    <img align="left" alt="Ayushman's CodeForces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+<a href="www.linkedin.com/in/ARYANJAIN2001/">
+    <img align="left" alt="Aryan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.facebook.com/ayushman.tripathy.9047/">
-    <img align="left" alt="Ayushman's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/tripathy.ayushman/">
-    <img align="left" alt="Ayushman's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+
 
 <br/>
 <br/>
 
 <p align="center"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=ayushmantripathy9&show_icons=true&theme=nightowl" alt="Ayushman's GitHubStats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ARYANJAIN2001&show_icons=true&theme=nightowl" alt="Aryan's GitHubStats" />
 </p>
 
-Hola!! I'm **Ayushman**, a sophomore at [IIT Roorkee](https://iitr.ac.in/). I am currently exploring the world of Dev and Deep Learning and working on some really interesting projects. I love to explore algorithms and design them and do some Competitive Programming to keep myself refreshed :wink:. Apart from all these, I love listening to romantics 🎶 and eating 🍕 at the same time binging one series after another :eyes: when I'm free.
+Hii!! I'm **Aryan**, a sophomore at [IIT Roorkee](https://iitr.ac.in/). I am a Computer Science enthusiat and I love problem solving. I read books to keep myself refreshed :wink:. Apart from all these, I love reading poem and I like outdoor games. 
 
-Feel free to reach me out at ayushman_t@cs.iit.ac.in or through any of my accounts above. Wanna chill out and have some fun over tea while it rains or simply roam around enjoying nature, I would always be there (Potterheads are more welcome :stuck_out_tongue_winking_eye: ) 
+Feel free to reach me out at aryan_j@cs.iitr.ac.in or through any of my accounts above. Wanna chill out and have some fun over tea while it rains or simply roam around enjoying nature, I would always be there (Potterheads are more welcome :stuck_out_tongue_winking_eye: ) 
 
 
 ### Skills
@@ -65,5 +54,5 @@ Feel free to reach me out at ayushman_t@cs.iit.ac.in or through any of my accoun
 </p>
 
 <p align="center">  
-	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmantripathy9&hide=css,java,html&theme=tokyonight&line_height=27">
+	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ARYANJAIN2001&hide=css,java,html&theme=tokyonight&line_height=27">
 </p>
