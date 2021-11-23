@@ -53,6 +53,4 @@ Feel free to reach me out at aryan_j@cs.iitr.ac.in or through any of my accounts
     
 </p>
 
-<p align="center">  
-	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ARYANJAIN2001&hide=css,java,html&theme=tokyonight&line_height=27">
-</p>
+
